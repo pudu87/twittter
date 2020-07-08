@@ -1,24 +1,5 @@
-# README
+# twittter
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Practice on Devise by building a twitter clone with this [youtubetutorial](https://www.youtube.com/watch?time_continue=1&v=5gUysPm64a4&feature=emb_logo) 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+From The Odin Project's [curriculum](https://www.theodinproject.com/lessons/authentication)
