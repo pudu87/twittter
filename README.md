@@ -12,4 +12,4 @@ _A Twitter clone to practice authentication through Devise in Rails._
 1. Clone this repository `git clone https://github.com/pudu87/twittter.git`
 2. `cd` into the cloned directory
 3. Run `rails server`
-4. Go to `http://www.localhost:3000/` in your browser and play around
+4. Go to `http://localhost:3000/` in your browser and play around
